@@ -1,0 +1,18 @@
+img{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 1;    
+}
+
+.txt_align_center{
+    text-align: center;
+}
+
+#background{
+    border: 1px solid rgb(42, 42, 99);
+    background-color: rgb(159, 196, 196);
+}
+
+.text-bold {
+    font-style:italic;
+}
